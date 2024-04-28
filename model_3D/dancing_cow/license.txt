@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dancing Cow
+* source:	https://sketchfab.com/3d-models/dancing-cow-ac463214548949a8b62b7de374aab451
+* author:	alfredonicolasalarcon (https://sketchfab.com/alfredonicolasalarcon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dancing Cow" (https://sketchfab.com/3d-models/dancing-cow-ac463214548949a8b62b7de374aab451) by alfredonicolasalarcon (https://sketchfab.com/alfredonicolasalarcon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

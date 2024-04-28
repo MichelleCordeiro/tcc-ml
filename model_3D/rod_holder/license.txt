@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rod Holder
+* source:	https://sketchfab.com/3d-models/rod-holder-005654e58bda4fc282f4f6b1c1e1e461
+* author:	sodanjagi (https://sketchfab.com/sodanjagi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rod Holder" (https://sketchfab.com/3d-models/rod-holder-005654e58bda4fc282f4f6b1c1e1e461) by sodanjagi (https://sketchfab.com/sodanjagi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
